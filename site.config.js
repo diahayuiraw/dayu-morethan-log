@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "hhttps://github.com/diahayuiraw/morethan-log",
     },
   ],
   // blog setting (required)
@@ -34,7 +34,7 @@ const CONFIG = {
 
   // notion configuration (required)
   notionConfig: {
-    pageId: process.env.NOTION_PAGE_ID,
+    pageId : "1f41a18e75424ac491b3fb24a670f521",
   },
 
   // plugin configuration (optional)
