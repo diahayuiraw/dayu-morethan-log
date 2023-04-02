@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `morethan-log`,
-      href: "hhttps://github.com/diahayuiraw/morethan-log",
+      href: "https://github.com/diahayuiraw/dayu-morethan-log",
     },
   ],
   // blog setting (required)
@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "diahayuiraw/morethan-log",
+      repo: "diahayuiraw/dayu-morethan-log",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
