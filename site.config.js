@@ -41,19 +41,19 @@ const CONFIG = {
   googleAnalytics: {
     enable: false,
     config: {
-      measurementId: process.env.NEXT_PUBLIC_GOOGLE_MEASUREMENT_ID || "",
+      measurementId: "",
     },
   },
   googleSearchConsole: {
     enable: false,
     config: {
-      siteVerification: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || "",
+      siteVerification: "",
     },
   },
   utterances: {
     enable: true,
     config: {
-      repo: "morethanmin/morethan-log",
+      repo: "diahayuiraw/morethan-log",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
